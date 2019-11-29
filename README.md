@@ -5,5 +5,4 @@ Gesture Control for Windows
 $ cd handy-master
 $ pip install -r requirements.txt
 $ python test.py
-
 '''
