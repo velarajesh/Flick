@@ -1,8 +1,8 @@
 # JazzHands
 Gesture Control for Windows
 ## Getting Started
-'''
-$ cd handy-master
+```sh
+$ cd JazzHands
 $ pip install -r requirements.txt
 $ python test.py
-'''
+```
