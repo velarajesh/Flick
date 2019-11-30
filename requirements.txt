@@ -1,3 +1,6 @@
 numpy
+<<<<<<< HEAD
 imutils
+=======
+>>>>>>> 60e535e235ccba767893e2d7ab3ad477d459c3c0
 opencv-python
