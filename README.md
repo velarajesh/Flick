@@ -1,4 +1,4 @@
-# JazzHands
+# Flick
 Gesture Control for Windows
 ## Getting Started
 ```sh
