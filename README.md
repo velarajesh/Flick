@@ -4,5 +4,5 @@ Gesture Control for Windows
 ```sh
 $ cd JazzHands
 $ pip install -r requirements.txt
-$ python test.py
+$ python segment.py
 ```
